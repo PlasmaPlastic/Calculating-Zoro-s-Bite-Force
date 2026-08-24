@@ -36,3 +36,31 @@ In *One Piece*, Roronoa Zoro holds a third sword (Wado Ichimonji) in his mouth w
 ├── simulation.py     # Python physics simulation
 └── README.md
 
+```
+
+---
+
+## 💡 Extra TMI: Zoro's Teeth Strength & Material Analysis
+
+When applying **3,600,000 N** over the tiny bite contact area ($\approx 10 \text{ cm}^2$), the compressive pressure exerted on Zoro's teeth reaches **~3.60 GPa** (Gigapascals).
+
+To put **3.60 GPa** into perspective, this equals a load of **36 tons force per 1 cm²**.
+
+### 💎 Compressive Strength Comparison (GPa)
+
+| Material | Compressive Strength (GPa) | Status under Zoro's Load (3.6 GPa) |
+| :--- | :--- | :--- |
+| Real Human Teeth Enamel | `~0.36 GPa` | 💥 **Instantly shattered into powder** |
+| Titanium Alloy (Grade 5) | `~1.15 GPa` | 🔨 **Permanently crushed & deformed** |
+| Tungsten Carbide  | `3.0 ~ 5.0 GPa`| ⚙️ **Barely holds (Industrial Cutting Tool level)** |
+| Zoro's Required Tooth Strength | **`~3.60 GPa`** | ⚔️ **Resists 450 kN cannonball impact** |
+| Diamond (Natural) | `60 ~ 110+ GPa` | 💎 **Perfectly holds without any damage** |
+
+### 🛠️ Real-World Equivalent Materials (3.6 GPa Level)
+* **Tungsten Carbide (WC):** Used in industrial drill bits and metal cutting tools.
+* **Advanced Ceramics ($\text{Si}_3\text{N}_4$, $\text{Al}_2\text{O}_3$):** Used in bulletproof armor plates and high-speed bearings.
+* **Ultra-High-Strength Tool Steel:** Special heat-treated martensitic steel.
+
+> 📌 **Conclusion:**  
+> Real human teeth (`0.36 GPa`) would instantly vaporize into dust.  
+> To withstand **3.60 GPa** of compressive pressure without breaking, **Zoro's teeth must have a hardness and mechanical durability equivalent to Industrial Tungsten Carbide or Natural Diamond.**
